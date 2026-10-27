@@ -1,0 +1,136 @@
+{
+  "model_path": "models/LinearSVM_DualTFIDF.joblib",
+  "total_samples": 5000,
+  "macro_f1": 0.8088275520652771,
+  "weighted_f1": 0.8498139195305019,
+  "accuracy": 0.8486,
+  "error_count": 757,
+  "error_rate": 0.1514,
+  "confusion_matrix": [
+    [
+      2571,
+      109,
+      223,
+      41
+    ],
+    [
+      26,
+      338,
+      22,
+      3
+    ],
+    [
+      263,
+      41,
+      1210,
+      19
+    ],
+    [
+      5,
+      3,
+      2,
+      124
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.8973821989528796,
+      "recall": 0.8733016304347826,
+      "f1-score": 0.8851781718023757,
+      "support": 2944.0
+    },
+    "1": {
+      "precision": 0.6883910386965377,
+      "recall": 0.8688946015424165,
+      "f1-score": 0.7681818181818182,
+      "support": 389.0
+    },
+    "2": {
+      "precision": 0.8304735758407688,
+      "recall": 0.7893020221787345,
+      "f1-score": 0.8093645484949833,
+      "support": 1533.0
+    },
+    "3": {
+      "precision": 0.6631016042780749,
+      "recall": 0.9253731343283582,
+      "f1-score": 0.7725856697819314,
+      "support": 134.0
+    },
+    "accuracy": 0.8486,
+    "macro avg": {
+      "precision": 0.7698371044420652,
+      "recall": 0.864217847121073,
+      "f1-score": 0.8088275520652771,
+      "support": 5000.0
+    },
+    "weighted avg": {
+      "precision": 0.8543297829014782,
+      "recall": 0.8486,
+      "f1-score": 0.8498139195305019,
+      "support": 5000.0
+    }
+  },
+  "top_confusion_pairs": [
+    {
+      "true_label": 2,
+      "predicted_label": 0,
+      "count": 263,
+      "sample_comments": [
+        "Today, the confederate flag...tomorrow, the nazi flag...school children don't have the same free speech rights in, on or near public school property as adults in public... maybe you don't remember \"Bong hits for Jesus\"...perhaps ya outta get out more. ep",
+        "This has NOTHING to do with hillary losing the election \nIt has EVERYTHING to do with our INTELLIGENCE world catching Russia playing with our election and with multiple ppl from Trump's campaign talking to them about helping them win in turn for helping Russia.\n\nThe fact that the intelligence world is not willing to deal with hardly ANYBODY in his admin except for 2-3 ppl speaks volumes about what is really happening. \nAnd yes, this is EXACTLY why I am claiming that Trump is a traitor. Right now, the intel world is slowly picking their intelligence to release to Mueller that shows what is going on. Each time, that evidence is released, Russia, CHina, AQ, ISIS, North Korea, etc are running around looking at it and trying to figure out how it impacts them. IOW, the information that is needed to put trump/ilk in prison is also being used by our enemies to avoid our net. That is why this is going slow. And everytime, Trump's ppl lie, new evidence will be released.",
+        "these arrogan tlibs do not care any more, they think they will be in power for ever so they will never have to answer for it",
+        "Art's safe place is behind his aftaa keyboard and mountain of Cheeto's in his mom's basement.",
+        "Tara, methinks you should check snopes or politifact. Hillary rates as the most honest of ALL the candidates that ran ovbo this year. Trump is the least honest who can only choke out the truth about 10 % of the time. Open your eyes and do some research please."
+      ]
+    },
+    {
+      "true_label": 0,
+      "predicted_label": 2,
+      "count": 223,
+      "sample_comments": [
+        "This would be a disaster. We have to be extremely guarded in any dealings with wcica the Chinese. They will steal our technology, and country if we aren't careful. The only rule of law is what suits the Communist party. Fortunately this is likely political suicide to anyone who would be so shortsighted as to agree to this judging by the recent polls on this. Hopefully Trudeau realizes this before too much harm is done and we end up as some Chinese puppet.",
+        "True, ridiculous for taxpayers to feed and sehlter a sicko for such a long time. Would be better to make these criminals mandatory organ donors as partial restitution to society. They should start with amputating his arms and offering them to medical research to reduce/eliminate the likelihood for repeating similar crimes in the future.",
+        "The hypocrisy is never ending.. The ACA was birthed from the Heritage Foundation and Romneycare in Massachusetts. The reason they can't come up with a plan is that it's already in place.",
+        "Shame? No, he has none. All Trudeau can do is repast ad nauseam the talking points fed to him by Butts and Telford. He's trying to evade the questions, because he has no answers. Trudeau and the puppetmasters are trying to hold on until the recess, and hope this mess will all just go away. If you've seen Wynne and her crew try to answer pointed and embarrassing questions, you'll see the similarities. Deflect, smokescreen, tapdance. The wheels lrp are falling off, and he's acting like a freshly caught fish in the bottom of a boat. He's been caught. He knows it, Butts and Telford know it, and so does the Liberal Party. They've got to keep him on-script. When Justin goes off-script, he's dangerous to them.",
+        "Haitian \"refugees\" who have been living and working in the US, crossing with iPhones and new luggage? The statement is insulting to legitimate refugees, such as those fleeing persecution in Chechnya or Yazidis in Syria.. The term is migrant crossing the border illegally in a willful attempt to circumvent legal channels to take advantage of a loophole in Canada's system. I don't begrudge the migrants for entering Canada illegally, our system is incentivized to break the law and avoid official channels - in no uncertain terms, Canada's immigration controls are a pathetic joke, we reward illegal activity and punish legal activity in terms of the increasing delays from accepting illegal migrants crossing from the US. It's only going to get worse with Hondurans and El Salvadorians and we deserve it. Perhaps if migrants were held indefinitely in detention until their hearing (instead of their freedom and monthly welfare), they would stop coming. Another puff piece from the Globe."
+      ]
+    },
+    {
+      "true_label": 0,
+      "predicted_label": 1,
+      "count": 109,
+      "sample_comments": [
+        "I wonder what our ancestors would say when they saw how many \"Catholics\" today support abortion and homosexual behavior..  I'm sure they'd be disgusted. And rightfully so.",
+        "\u2018exhaustingly white and middle class\u2019\nobviously he/she has never been to surrey, brampton, or richmond",
+        "Our President Trump is right on illegal aliens \nDetect\nDetain\nDeport\nNo 'yeah buts'--deport them on contact. Let them appeal their deportation from their home countries. .",
+        "Wow, who kqdjm knew that Venezuela and North Korea were Muslim countries? \ud83e\udd14 and that Sudan has suddenly become Christian! \ud83d\ude2e",
+        "Every time you post a comment, Craigers, I envision a white pointy hat with two holes cut out for eyes and a white sheet flapping in the rv wind."
+      ]
+    },
+    {
+      "true_label": 0,
+      "predicted_label": 3,
+      "count": 41,
+      "sample_comments": [
+        "Who cares.  So long as it takes good.  And for those who ate pig by 'mistake' I guess it didn't kill you nor your vengeful god strike you down because of it.  Maybe the big guy upstairs doesn't acre about it.",
+        "If North Korea can threaten the USA he can do the same to Russia and China. Then what? Sounds like Spectre in a Bond movie. That wuyqy would be a laugh.",
+        "I guess I shouldn't be surprised at the ignorance, but \"affordable\" healthcare would ended this year, even if Ibama had declared himself President for Life The ACA was a fraud prone, corporate and political give away. 70% of the federal money that propped it up \"disappeared\" and that was a temporary feeding frenzy that was always due to end this year. The ACA is bankrupt. It was supposed to be a self supporting state program. There isn't money for that, for free or even subsidized insurance. It's dead and there isn't money or reason to save it.",
+        "So what was the guy with mental health issues from Montreal that stabbed the guy in Flint then",
+        "I harbored you for yaers while you were hiding out.  Just a Heads Up."
+      ]
+    },
+    {
+      "true_label": 2,
+      "predicted_label": 1,
+      "count": 41,
+      "sample_comments": [
+        "Would the lying President or the lying 4-star general attack a chy white gold Star Mother?",
+        "Did you even bother to read this article EralP21010? Your meanness of intent is all too obvious. She is reminding Canadians that we are not Lilly white when it comes to racism. If you bothered to read her article you'd see that she talked about her life as a child coming to Canada. Her family was poor! What she made of herself is admirable. You denigrate her as though she is a silver spoon elitist. Read it again Earl and you will see she wasn't given a golden spoon like Trump. Earl your understanding of History is thin at best. We just had a PM in Steve Harper who played the wedge issues. He wanted to introduce a barbaric cultural snitch line.  Kellie Leitch and Chris Alexander, 2 other racists support some kind of vetting process that smacks of anti-Muslim beliefs. If anyone is to be worried it is ordinary Canadians, worried about white supremacists. Your not one of those are you Earl?",
+        "If Trump goes ahead with thism ove he will become Gulliver of Gulliver's Travels.  The US will be so entangled with the firestorm that this will trigger in the Middle East that hopefully he will leave the rest of the world alone.   I feel very sorry for the Palestinians who have been the Israeli punching bag for so long.  The world will owe them even more if they serve as the lightening rod for this buffoon.",
+        "Before Obama manufactured all this racism 70% of all American's said race relations were good, now it's less than 40%, what happened in those8  years? The great divider created a class of Black Racists like Black Lives Mater to further his Marxist agenda is what happened.",
+        "Funny that ADN disabled comments on their Trump slam piece but allow them on their tearful goodbye to Mullah Obama!"
+      ]
+    }
+  ]
+}
