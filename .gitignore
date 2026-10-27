@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# MLflow tracking
+mlruns/
+mlartifacts/
+*.db
+mlflow.db
+
+# Large raw datasets
+data/*.csv
+data/*:Zone.Identifier
+
+# Notebook checkpoints
+.ipynb_checkpoints/
